@@ -1,6 +1,6 @@
 # Twitter SVM
 
-This project was part of the third problem set of the Intro to Machine Learning class (CS M146) I took at UCLA. I ported the code to Python 3 and made some slight changes to clean up the program.
+This project was part of the third problem set of the Intro to Machine Learning class (CS M146) I took at UCLA.
 
 ## Summary
 
